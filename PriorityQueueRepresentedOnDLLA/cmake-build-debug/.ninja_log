@@ -1,0 +1,10 @@
+# ninja log v5
+5	309	7354328898579662	build.ninja	2dff9e23f654f578
+7	897	7355892733530695	CMakeFiles/lab3sda.dir/App.cpp.obj	ec38e51ad6fd7088
+13	772	7355899189780592	CMakeFiles/lab3sda.dir/PriorityQueue.cpp.obj	bbff25d11e1ad81b
+52	947	7355892734165539	CMakeFiles/lab3sda.dir/ShortTest.cpp.obj	f7254da931751664
+5	722	7355899439171896	CMakeFiles/lab3sda.dir/ExtendedTest.cpp.obj	ad922ec5946516b1
+723	913	7355899441041026	lab3sda.exe	d4038dcbe4a47a3c
+7	804	7355900192333922	CMakeFiles/lab3sda.dir/ExtendedTest.cpp.obj	ad922ec5946516b1
+15	815	7355900192435280	CMakeFiles/lab3sda.dir/PriorityQueue.cpp.obj	bbff25d11e1ad81b
+817	1022	7355900194462000	lab3sda.exe	d4038dcbe4a47a3c
