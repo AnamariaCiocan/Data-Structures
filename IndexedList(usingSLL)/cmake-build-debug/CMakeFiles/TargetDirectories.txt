@@ -1,0 +1,3 @@
+C:/Users/Anamaria/CLionProjects/lab2dsa/cmake-build-debug/CMakeFiles/lab2dsa.dir
+C:/Users/Anamaria/CLionProjects/lab2dsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anamaria/CLionProjects/lab2dsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

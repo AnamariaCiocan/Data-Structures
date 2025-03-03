@@ -1,0 +1,17 @@
+# ninja log v5
+3	642	7385908314284000	CMakeFiles/lab5dsa.dir/SortedSet.cpp.obj	e79c2c2f6af35f5c
+13	711	7385895525053849	CMakeFiles/lab5dsa.dir/ExtendedTest.cpp.obj	60fdf744dff5acd3
+22	656	7385895524513232	CMakeFiles/lab5dsa.dir/ShortTest.cpp.obj	7d767eaa12349d08
+30	732	7385895525325800	CMakeFiles/lab5dsa.dir/SortedSetIterator.cpp.obj	69632f5304798489
+3	549	7385908493670985	CMakeFiles/lab5dsa.dir/App.cpp.obj	f13bbc08db0dd05d
+550	696	7385908495050948	lab5dsa.exe	4b829d01d1c588ee
+4	551	7385908594000714	CMakeFiles/lab5dsa.dir/App.cpp.obj	f13bbc08db0dd05d
+552	693	7385908595378653	lab5dsa.exe	4b829d01d1c588ee
+3	619	7385909122589351	CMakeFiles/lab5dsa.dir/SortedSet.cpp.obj	e79c2c2f6af35f5c
+620	759	7385909123945427	lab5dsa.exe	4b829d01d1c588ee
+5	729	7385914987285757	CMakeFiles/lab5dsa.dir/SortedSet.cpp.obj	e79c2c2f6af35f5c
+729	906	7385914988997718	lab5dsa.exe	4b829d01d1c588ee
+7	474	7385915120040174	CMakeFiles/lab5dsa.dir/App.cpp.obj	f13bbc08db0dd05d
+474	621	7385915121450095	lab5dsa.exe	4b829d01d1c588ee
+4	479	7385916052156084	CMakeFiles/lab5dsa.dir/App.cpp.obj	f13bbc08db0dd05d
+479	620	7385916053504591	lab5dsa.exe	4b829d01d1c588ee

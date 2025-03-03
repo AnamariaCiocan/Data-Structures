@@ -1,0 +1,8 @@
+# ninja log v5
+1	222	7627350446906948	build.ninja	273f1d480a61aba5
+27	343	7627345357530438	CMakeFiles/lab2dsa.dir/IndexedList.cpp.obj	efbb1252e987b3e4
+876	1373	7627345367761146	lab2dsa.exe	38fa2760def2a242
+1	562	7343104158099589	CMakeFiles/lab2dsa.dir/App.cpp.obj	b26a191918e9dd47
+39	334	7627345357455580	CMakeFiles/lab2dsa.dir/ListIterator.cpp.obj	f443a919b2c52c12
+17	333	7627345357455580	CMakeFiles/lab2dsa.dir/ShortTest.cpp.obj	7f5a8dd222d10b79
+4	876	7627345362839529	CMakeFiles/lab2dsa.dir/ExtendedTest.cpp.obj	60291c054aabbe3c
